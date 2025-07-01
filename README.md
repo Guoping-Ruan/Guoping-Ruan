@@ -1,8 +1,6 @@
 ## Hi, 👋 I'm Guoping Ruan, 
 
-<img src="https://code.visualstudio.com/favicon.ico" alt="VS Code" width="20"/>
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<img src="https://code.visualstudio.com/favicon.ico" alt="VS Code" width="20"/> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 
 
