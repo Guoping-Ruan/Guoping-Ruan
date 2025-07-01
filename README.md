@@ -1,4 +1,6 @@
-## Hi, 👋I'm Guoping Ruan, a PhD student at the University of Liverpool and the Xi'an Jiaotong-Liverpool University.
+## Hi, 👋 I'm Guoping Ruan, 
+
+Currently, I'm a PhD student at the University of Liverpool and the Xi'an Jiaotong-Liverpool University. My research focuses on addressing solar uncertainties through solar forecasting.
 
 <!--
 **Guoping-Ruan/Guoping-Ruan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
