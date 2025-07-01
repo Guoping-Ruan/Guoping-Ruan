@@ -1,7 +1,7 @@
 ## Hi, 👋 I'm Guoping Ruan, 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch(https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 
 
 Currently, I'm a PhD student at the University of Liverpool and the Xi'an Jiaotong-Liverpool University. My research focuses on addressing solar uncertainties through solar forecasting.
