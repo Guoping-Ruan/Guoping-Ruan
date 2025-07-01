@@ -1,6 +1,7 @@
 ## Hi, 👋 I'm Guoping Ruan, 
 
 👨🏻‍🎓
+
 Currently, I'm a PhD student at the University of Liverpool and the Xi'an Jiaotong-Liverpool University. My research focuses on addressing solar uncertainties through solar forecasting.
 
 <!--
