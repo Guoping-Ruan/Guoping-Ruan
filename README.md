@@ -3,6 +3,10 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 <img src="https://code.visualstudio.com/favicon.ico" alt="VS Code" width="20"/> VS Code
+<span style="background:#007ACC;color:white;padding:4px 8px;border-radius:4px;">
+  <img src="https://code.visualstudio.com/favicon.ico" width="16" style="vertical-align:middle"/> VS Code
+</span>
+
 
 
 
