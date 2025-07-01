@@ -1,8 +1,11 @@
 ## Hi, 👋 I'm Guoping Ruan, 
 
-👨🏻‍🎓
 
+## About me
 Currently, I'm a PhD student at the University of Liverpool and the Xi'an Jiaotong-Liverpool University. My research focuses on addressing solar uncertainties through solar forecasting.
+
+## Skills
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 <!--
 **Guoping-Ruan/Guoping-Ruan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
