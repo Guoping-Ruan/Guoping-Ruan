@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, 👋I'm Guoping Ruan, a PhD student at the University of Liverpool and the Xi'an Jiaotong-Liverpool University.
 
 <!--
 **Guoping-Ruan/Guoping-Ruan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
