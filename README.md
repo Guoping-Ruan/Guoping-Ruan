@@ -10,7 +10,7 @@ Also welcome to check my Google Scholar [![googlescholar](https://img.shields.io
 
 
 ### To Do:⬇
-Multi-modal solar forecasting: combination of ground-based sky images and time-series data
+Multi-modal solar forecasting: combination of ground-based sky images and time-series data.
 
 
 
