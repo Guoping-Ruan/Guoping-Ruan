@@ -6,6 +6,8 @@
 
 Currently, I'm a PhD student at the University of Liverpool and the Xi'an Jiaotong-Liverpool University. My research focuses on addressing solar uncertainties through solar forecasting.
 
+Also welcome to check my Google Scholar [![GoogleScholar](https://img.shields.io/badge/-GoogleScholar-#4285F4?style=flat&logo=GoogleScholar&logoColor=white)]
+
 ### To Do:⬇
 Multi-modal solar forecasting: combination of ground-based sky images and time-series data
 
